@@ -1,6 +1,9 @@
 <?php
 
 return [
+    "Home" => "Home",
+    "Dashboard" => "Dashboard",
+    "Masters" => "Masters",
     "Apps & Pages" => "Apps & Pages",
     "User Interface" => "User Interface",
     "Dashboards" => "Dashboards",
